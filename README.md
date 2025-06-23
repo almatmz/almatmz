@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm Almat Muzdybai
+# 👋 Hi, I'm Almat Muzdybay
 
 🎓 I'm a Software Engineering student at **Astana IT University (AITU)**, currently exploring the world of backend development, data management, and full-stack engineering.
 
