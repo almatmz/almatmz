@@ -27,11 +27,11 @@
 - Node.js
 - Express.js
 - React.js
+- SpringBoot
 
 ### 🛢 Databases & Tools
 - MySQL
 - PostgreSQL
-- MongoDB (beginner)
 - Postman, Git & GitHub
 
 ---
