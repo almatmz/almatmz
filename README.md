@@ -28,6 +28,8 @@
 - Express.js
 - React.js
 - SpringBoot
+- Bootstrap
+- jQuery
 
 ### 🛢 Databases & Tools
 - MySQL
@@ -58,9 +60,9 @@
 Here are some of my favorite personal projects (check pinned repos!):
 
 - ✅ **Student Management System** – Java Spring Boot + MySQL backend API  
-- ✅ **To-Do List Website** – React frontend with Node/Express backend and user authentication  
+- ✅ **Scout_kz** – Football talent discovery platform for Kazakhstan. Players upload videos & scouts rate them.React, Express, PostgreSQL, Tailwind & Cloudinary 
 - ✅ **Expense Tracker** – Python CLI-based tracker with file storage and OOP structure  
-- ✅ **Validation Form** – Simple but clean HTML/CSS/JS project with validation logic  
+- ✅ **E-Commerce-Platform** – A simple Java-based Object-Oriented Programming (OOP) project simulating an e-commerce system with support for user management (Admin and Customer), product inventory, and order processing 
 
 > 💬 *Most of my projects focus heavily on backend functionality, which is where I put most of my learning and effort. I’m actively working to improve frontend skills too.*
 
